@@ -1,0 +1,103 @@
+id: 1670e23781b744b19f14ed0b9ddd4a42
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e2176e5508d448b7b90b11b22e185fdd:
+    span:
+      start: 0
+      end: 30
+    metadata:
+      page_num: 1a
+    page_info: null
+    imgnum: 1
+    reference: null
+  c357aecef7ab41b48860ff9aadf3ba09:
+    span:
+      start: 32
+      end: 1155
+    metadata:
+      page_num: 1b
+    page_info: null
+    imgnum: 2
+    reference: null
+  9e4ef9c5f99e48a69ccbced0a9155f86:
+    span:
+      start: 1157
+      end: 2242
+    metadata:
+      page_num: 2a
+    page_info: null
+    imgnum: 3
+    reference: null
+  7c8b3b0bc8844f77854bcd78f411e251:
+    span:
+      start: 2244
+      end: 3422
+    metadata:
+      page_num: 2b
+    page_info: null
+    imgnum: 4
+    reference: null
+  2c1043fa6bc745408542a57c441cd52e:
+    span:
+      start: 3424
+      end: 4456
+    metadata:
+      page_num: 3a
+    page_info: null
+    imgnum: 5
+    reference: null
+  d95e3d65091a4b7a8164c6361569b105:
+    span:
+      start: 4458
+      end: 5622
+    metadata:
+      page_num: 3b
+    page_info: null
+    imgnum: 6
+    reference: null
+  aec24c28e36142308872f6cccfd802dc:
+    span:
+      start: 5624
+      end: 6629
+    metadata:
+      page_num: 4a
+    page_info: null
+    imgnum: 7
+    reference: null
+  ceb437a6d5784957a29b2cc00cd88705:
+    span:
+      start: 6631
+      end: 7658
+    metadata:
+      page_num: 4b
+    page_info: null
+    imgnum: 8
+    reference: null
+  46742a886d244b4cbf68c9fd26f2e720:
+    span:
+      start: 7660
+      end: 8645
+    metadata:
+      page_num: 5a
+    page_info: null
+    imgnum: 9
+    reference: null
+  4e52fddc72a848878c2534185340d7c4:
+    span:
+      start: 8647
+      end: 9608
+    metadata:
+      page_num: 5b
+    page_info: null
+    imgnum: 10
+    reference: null
+  3f2c4be7db5d4c92bc4a6148fd648c8c:
+    span:
+      start: 9610
+      end: 10015
+    metadata:
+      page_num: 6a
+    page_info: null
+    imgnum: 11
+    reference: null

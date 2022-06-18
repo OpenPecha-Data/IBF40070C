@@ -1,0 +1,36 @@
+id: IBF40070C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T21:03:06.020455'
+last_modified: '2022-06-18T21:03:06.020468'
+parser: null
+source_metadata:
+  title: Hagiography of Chos rje chos Grags dpal bzang (1352–1434)
+  author: སྙོམས་ལས་པ་ཀུན་དགའ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2019-12-21);
+    revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Google Docs, OCR-processed (Tesseract)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:བློ་གསལ་དོན་གྲུབ། (ld)
+  - Revisions/Corrections:བློ་གསལ་དོན་གྲུབ།
+  text_witnesses: https://sakyaresearch.org/sources/2388
+  bases:
+    991d:
+      title: Hagiography of Chos rje chos Grags dpal bzang (1352–1434)
+      order: 1
+      base_file: 991d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
